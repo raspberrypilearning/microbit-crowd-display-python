@@ -2,12 +2,8 @@
 
 ### Hardware
 
-+ List hardware here, or delete section.
+- micro:bit
 
 ### Software
 
-+ List software here, or delete section.
-
-### Additional Resources
-
-+ List additional resources, or delete section.
+- Mu
