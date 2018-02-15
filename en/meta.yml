@@ -1,6 +1,6 @@
 title: Making a Crowd Display with Micro:Bits and Python
 hero_image: images/banner.png
-description: Program a set of micro:bits so that they talk to each other via radio to create a synchonised light show
+description: Program a set of microbits so that they talk to each other via radio to create a synchonised light show
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
