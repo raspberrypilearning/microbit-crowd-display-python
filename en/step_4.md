@@ -11,7 +11,7 @@
     ```python
     while True:
         if button_a.was_pressed():
-    radio.send('now')
+            radio.send('now')
     ```
 
 1.  Move your `display_show` line so that it is only triggered when the same radio message is received.
