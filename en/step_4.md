@@ -17,9 +17,12 @@
 1.  Move your `display_show` line so that it is only triggered when the same radio message is received.
 
     ```python
-    message = radio.receive()
-    if message == 'now':
-        display.show(pic, delay=100, wait=False)
+    while True:
+        if button_a.was_pressed():
+            radio.send('now')
+        message = radio.receive()
+        if message == 'now':
+            display.show(pic, delay=100, wait=False)
     ```
 
 1. Find someone else who is at the same point and test your code? Does pressing Button A cause their image to appear on their micro:bit?
