@@ -19,8 +19,6 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Design your image
 - title: Set up the radio
-  completion: internal
 - title: Triggering an avalanche of messages
